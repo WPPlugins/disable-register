@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+/**
+ * Hide the Login error container
+ */
+.login #login #nav,
+.login #login #login_error {
+	display : none;
+}
